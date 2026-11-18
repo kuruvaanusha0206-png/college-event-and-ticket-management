@@ -1,0 +1,10 @@
+[2026-11-18 20:44:42.252] [LOGIN_SUCCESS] [admin] Logged in as ADMIN
+[2026-11-18 20:44:42.254] [LOGIN_SUCCESS] [org_sarah] Logged in as ORGANIZER
+[2026-11-18 20:44:42.256] [LOGIN_SUCCESS] [student_alex] Logged in as STUDENT
+[2026-11-18 20:44:42.257] [LOGOUT] [student_alex] Logged out successfully.
+[2026-11-18 20:44:42.278] [LOGIN_SUCCESS] [student_david] Logged in as STUDENT
+[2026-11-18 20:44:42.296] [BOOKING_SUCCESS] [student_david] Booked 2 seats for event 'HackVibe 2026: 36-Hour National Hackathon' [Ref: BK-20261118-4377]
+[2026-11-18 20:44:42.301] [LOGIN_SUCCESS] [student_david] Logged in as STUDENT
+[2026-11-18 20:44:42.312] [BOOKING_CANCEL] [student_david] Cancelled booking ID: 3
+[2026-11-18 20:44:42.319] [TICKET_EXPORT] [SYSTEM] Exported ticket file: C:\Users\WINDOWS 11 PRO\.gemini\antigravity\scratch\univibe\tickets\TKT-TEST-999.txt
+[2026-11-18 20:44:42.537] [REPORT_EXPORT] [SYSTEM] Generated report: C:\Users\WINDOWS 11 PRO\.gemini\antigravity\scratch\univibe\reports\UniVibe_System_Summary_1795014882526.txt

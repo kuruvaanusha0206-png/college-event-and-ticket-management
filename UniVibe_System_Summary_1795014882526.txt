@@ -1,0 +1,31 @@
+========================================================================================
+                UNIVIBE COLLEGE EVENT & TICKET MANAGEMENT SYSTEM                       
+                          EXECUTIVE AUDIT & SYSTEM SUMMARY                              
+========================================================================================
+ Generated Timestamp : 2026-11-18 20:44:42
+ System Version      : 2.0.0 (Core Java Standard Edition)
+----------------------------------------------------------------------------------------
+ 1. CAMPUS ENGAGEMENT OVERVIEW:
+    - Total Registered Students  : 3
+    - Total Event Organizers     : 2
+    - Total College Events       : 8
+    - Confirmed Bookings         : 3
+    - Cancelled Bookings         : 1
+    - Total Net Revenue          : ₹650.00
+----------------------------------------------------------------------------------------
+ 2. REVENUE DISTRIBUTION BY CATEGORY:
+    - Workshops                        : ₹200.00
+    - Hackathons                       : ₹450.00
+----------------------------------------------------------------------------------------
+ 3. ACTIVE EVENTS SUMMARY:
+    [ID: 03] Generative AI & LLM Engineering Mas...   | Workshops        | ₹100.00 | Seats: 14/60 | APPROVED
+    [ID: 05] CyberShield: Cloud Security & Penet...   | Technical Events | ₹50.00  | Seats: 75/80 | APPROVED
+    [ID: 04] Inter-College Battle of the Bands        | Music and Dance Competitions | ₹120.00 | Seats: 180/200 | APPROVED
+    [ID: 01] HackVibe 2026: 36-Hour National Hac...   | Hackathons       | ₹150.00 | Seats: 83/100 | APPROVED
+    [ID: 06] UniCup Inter-Department Football Ch...   | Sports Events    | ₹0.00   | Seats: 280/300 | APPROVED
+    [ID: 08] Rhythmics: Solo & Group Western Dan...   | Music and Dance Competitions | ₹80.00  | Seats: 150/150 | PENDING
+    [ID: 02] VibeSync Annual Cultural Carnival        | College Festivals | ₹250.00 | Seats: 421/500 | APPROVED
+    [ID: 07] Quantum Computing: Future Horizon S...   | Seminars         | ₹0.00   | Seats: 115/120 | APPROVED
+========================================================================================
+                   END OF REPORT - CONFIDENTIAL CAMPUS DOCUMENT                         
+========================================================================================
